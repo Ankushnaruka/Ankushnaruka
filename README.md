@@ -7,8 +7,8 @@
 Software Engineering is something that coincides with my passion and hobby. Always up for a discussion on software, business, and other opportunities.
   
 ### 🔧 Technologies:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,html,css,javascript,express,mongodb,postman,unreal,blender,go,git,github,bash,rust,java,obsidian,angular,react,ts,gradle,androidstudio,firebase,kotlin,swift,notion,unity,godot,nodejs,arduino,autocad,aws,bootstrap,tailwind,cmake,make,discord,django,dotnet,flask,fastapi,figma,gcp,&theme=dark)](https://skillicons.dev)
-v
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,html,css,javascript,express,mongodb,postman,unreal,blender,go,git,github,bash,rust,java,obsidian,angular,react,ts,gradle,androidstudio,firebase,kotlin,swift,notion,unity,godot,nodejs,arduino,autocad,aws,bootstrap,tailwind,cmake,discord,django,dotnet,flask,fastapi,figma,gcp,&theme=dark)](https://skillicons.dev)
+
 ### More Stuff:
 
 - 🛠 &nbsp; I’m currently working in GO and WEBDEV.
